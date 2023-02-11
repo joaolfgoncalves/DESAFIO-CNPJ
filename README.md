@@ -36,5 +36,11 @@ A versão mais recente da biblioteca.
 ## Antes de executar
 Atente para o fato de que o arquivo de dados disponibilizado é grande. São aprox. (2.5 GB) de arquivo texto descomprimido.
 
-O script informa no terminal a mensagem ("Aguarde o download! Caso queira encerrar o programa, pressione qualquer tecla: ")
+## Como executar 
+ Verificado que o arquivo "desafio.py" encontra-se no diretório:
+
+`$ python3 desafio.py`
+
+Ao final do da execução do script, é informado no terminal a seguinte mensagem:
+"Aguarde o download! Caso queira encerrar o programa, pressione qualquer tecla: "
 aguarde o termino do download para encerrar o script.
