@@ -1,7 +1,7 @@
 # Dados Públicos CNPJ 
-Utilitário em Python para fazer download completo base de CNPJ [disponibilizada pela Brasil.io](https://brasil.io/dataset/documentos-brasil/documents/) (aprox. 2,5GB) 
-
-
+Utilitário em Python para fazer download completo base de CNPJ [disponibilizada pela Brasil.io](https://brasil.io/dataset/documentos-brasil/documents/) (aprox. 2,5GB). O arquivo para download está compactado, após descompressão obtemos um arquivo  " .csv"
+com uma grande tabela no formato [cnpj,razao_social,uf]
+.
 ## Configurações prévias
 Para executar o script, é necessário que seu sistema contenha essas instalações:
 
